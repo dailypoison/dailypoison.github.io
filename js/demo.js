@@ -55,16 +55,15 @@ $(function () {
   // Initialize the Gallery as video carousel:
   blueimp.Gallery([
         {
-      title: 'LES TWINS - An Industry Ahead',
+      title: 'Something Fishy moves by IceJFish',
       type: 'text/html',
-      youtube: 'zi4CIXpx7Bg'
-    },
-    {
-      title: 'KN1GHT - Last Moon',
+      youtube: 'iq_d8VSM0nw'vFaFUsHPpCE
+    }, {
+      title: 'Swag vali Topi  ma Shat!!',
       type: 'text/html',
-      vimeo: '73686146',
-      poster: 'https://secure-a.vimeocdn.com/ts/448/835/448835699_960.jpg'
+      youtube: 'vFaFUsHPpCE'
     }
+    
   ], {
     container: '#blueimp-video-carousel',
     carousel: true
