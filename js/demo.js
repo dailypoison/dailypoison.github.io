@@ -61,12 +61,14 @@ $(function () {
     },{
       title: 'Swag vali Topi - ma Shat!!',
       type: 'text/html',
-      youtube: 'vFaFUsHPpCE'
+      youtube: 'vFaFUsHPpCE',
+      poster: 'https://secure-a.vimeocdn.com/ts/448/835/448835699_960.jpg'
     },
     {
       title: 'I Very Very Love You , I mean What ?',
       type: 'text/html',
-      youtube: 'pVFwax9iRSA'
+      youtube: 'pVFwax9iRSA',
+      poster: 'https://secure-a.vimeocdn.com/ts/448/835/448835699_960.jpg'
     }
     
   ], {
