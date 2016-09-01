@@ -62,13 +62,13 @@ $(function () {
       title: 'Swag vali Topi - ma Shat!!',
       type: 'text/html',
       youtube: 'vFaFUsHPpCE',
-      poster: 'https://secure-a.vimeocdn.com/ts/448/835/448835699_960.jpg'
+      poster: 'http://img.youtube.com/vi/GroxDoccw20/0.jpg'
     },
     {
       title: 'I Very Very Love You , I mean What ?',
       type: 'text/html',
       youtube: 'pVFwax9iRSA',
-      poster: 'https://secure-a.vimeocdn.com/ts/448/835/448835699_960.jpg'
+      poster: 'http://img.youtube.com/vi/pVFwax9iRSA/0.jpg'
     }
     
   ], {
