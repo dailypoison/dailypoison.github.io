@@ -57,8 +57,8 @@ $(function () {
         {
       title: 'Something Fishy moves by IceJFish',
       type: 'text/html',
-      youtube: 'iq_d8VSM0nw'vFaFUsHPpCE
-    }, {
+      youtube: 'iq_d8VSM0nw'
+    },{
       title: 'Swag vali Topi  ma Shat!!',
       type: 'text/html',
       youtube: 'vFaFUsHPpCE'
