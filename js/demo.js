@@ -55,13 +55,18 @@ $(function () {
   // Initialize the Gallery as video carousel:
   blueimp.Gallery([
         {
-      title: 'Something Fishy moves by IceJFish',
+      title: 'Fishy moves by IceJFish',
       type: 'text/html',
       youtube: 'iq_d8VSM0nw'
     },{
-      title: 'Swag vali Topi  ma Shat!!',
+      title: 'Swag vali Topi - ma Shat!!',
       type: 'text/html',
       youtube: 'vFaFUsHPpCE'
+    },
+    {
+      title: 'I Very Very Love You , I mean What ?',
+      type: 'text/html',
+      youtube: 'pVFwax9iRSA'
     }
     
   ], {
