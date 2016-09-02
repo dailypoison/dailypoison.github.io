@@ -70,6 +70,18 @@ $(function () {
       type: 'text/html',
       youtube: 'pVFwax9iRSA',
       poster: 'http://img.youtube.com/vi/pVFwax9iRSA/hqdefault.jpg'
+    },
+    {
+      title: 'Gujjar Biradari - Lolwa',
+      type: 'text/html',
+      youtube: 'L6QMKONeXsQ',
+      poster: 'http://img.youtube.com/vi/L6QMKONeXsQ/maxresdefault.jpg'
+    },
+    {
+      title: 'Eye to eye - Taher Shat',
+      type: 'text/html',
+      youtube: 'f8uK_mWnbr4',
+      poster: 'http://img.youtube.com/vi/f8uK_mWnbr4/maxresdefault.jpg'
     }
     
   ], {
