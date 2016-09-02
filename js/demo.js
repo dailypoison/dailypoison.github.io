@@ -58,18 +58,18 @@ $(function () {
       title: 'Fishy moves by IceJFish',
       type: 'text/html',
       youtube: 'iq_d8VSM0nw',
-      poster : 'http://img.youtube.com/vi/iq_d8VSM0nw/hqdefault.jpg'
+      poster : 'http://img.youtube.com/vi/iq_d8VSM0nw/maxresdefault.jpg'
     },{
       title: 'Swag vali Topi - ma Shat!!',
       type: 'text/html',
       youtube: 'vFaFUsHPpCE',
-      poster: 'http://img.youtube.com/vi/GroxDoccw20/0.jpg'
+      poster: 'http://img.youtube.com/vi/GroxDoccw20/maxresdefault.jpg'
     },
     {
       title: 'I Very Very Love You , I mean What ?',
       type: 'text/html',
       youtube: 'pVFwax9iRSA',
-      poster: 'http://img.youtube.com/vi/pVFwax9iRSA/0.jpg'
+      poster: 'http://img.youtube.com/vi/pVFwax9iRSA/maxresdefault.jpg'
     }
     
   ], {
