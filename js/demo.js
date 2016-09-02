@@ -66,7 +66,7 @@ $(function () {
       poster: 'http://img.youtube.com/vi/GroxDoccw20/maxresdefault.jpg'
     },
     {
-      title: 'I Very Very Love You , I mean What ?',
+      title: 'I Very Very Love You, I mean What ?',
       type: 'text/html',
       youtube: 'pVFwax9iRSA',
       poster: 'http://img.youtube.com/vi/pVFwax9iRSA/hqdefault.jpg'
