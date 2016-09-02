@@ -69,7 +69,7 @@ $(function () {
       title: 'I Very Very Love You , I mean What ?',
       type: 'text/html',
       youtube: 'pVFwax9iRSA',
-      poster: 'http://img.youtube.com/vi/pVFwax9iRSA/maxresdefault.jpg'
+      poster: 'http://img.youtube.com/vi/pVFwax9iRSA/hqdefault.jpg'
     }
     
   ], {
