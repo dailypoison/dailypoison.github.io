@@ -57,7 +57,8 @@ $(function () {
         {
       title: 'Fishy moves by IceJFish',
       type: 'text/html',
-      youtube: 'iq_d8VSM0nw'
+      youtube: 'iq_d8VSM0nw',
+      poster : 'http://img.youtube.com/vi/iq_d8VSM0nw/hqdefault.jpg'
     },{
       title: 'Swag vali Topi - ma Shat!!',
       type: 'text/html',
